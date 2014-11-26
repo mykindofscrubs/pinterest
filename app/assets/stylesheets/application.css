@@ -1,3 +1,31 @@
+h1 {
+	font-family: "Times New Roman";
+	font-size: 40px;
+	color: white;
+}
+body{
+	background: #5B7876;
+}
+
+a {
+ color: #BEDB39;
+}
+
+title {
+	font-family: Georgia;
+}
+
+#login_nav_align_topright {
+	display: block;
+	text-align: right;
+	vertical-align: text-top;
+	}
+
+#signin_nav_align_topleft {
+	display: block;
+	text-align: left;
+	vertical-align: text-top;
+	}
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
